@@ -91,8 +91,6 @@ print("The Mean arrival rate is %.3f "%mean)
 print("The Variance of arrival from feeder is %.3f "%var) 
 
 print("The Standard deviation of arrival from feeder is %.3f "%SD)
-
-
 # Output : 
 ![prob 1](https://github.com/amal-2006/Mean-and-Variance/assets/148410730/ab85990c-1acc-4732-8034-eb8947329f0c)
 
